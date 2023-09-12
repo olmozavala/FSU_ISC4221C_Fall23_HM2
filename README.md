@@ -8,7 +8,7 @@ Write a report in a file called `report.md` where you explain your answers and l
 
 ## 1. Advanced Loops and Recursion (10 pts)
 
-Create a function named **myrec_advanced** that computes $ f(x) = 2x - f(x-1) + g(x) $ where $ g(x) = x^2 $ 
+Create a function named **myrec_advanced** that computes $f(x) = 2x - f(x-1) + g(x)$ where $g(x) = x^2$ 
 for $x > 0$ and $g(x) = f(x) = 0$ if $x = 0$. It should raise an exception for $ x < 0 $.
 
 ## 2. Data Manipulation with Pandas (10 pts)
@@ -27,17 +27,17 @@ output = {
 
 ## 3. Advanced NumPy/loops (12 pts)
 
-1. Create a function **normalize_rows** that receives a matrix and returns the matrix with its rows normalized (i.e., $\sqrt{ v_1^2 + v_2^2 +  ... + v_n^2 } = 1 $ for each row).
+1. Create a function **normalize_rows** that receives a matrix and returns the matrix with its rows normalized (i.e., $\sqrt{ v_1^2 + v_2^2 +  ... + v_n^2 } = 1$ for each row).
 
 ## 4. Advanced Matplotlib (16 pts)
 
 ### Problem 1: Plotting Basic Functions (10 pts)
 
-Plot the following three functions on the same plot from $ x = -10 $ to $ x = 10 $:
+Plot the following three functions on the same plot from $x = -10$ to $x = 10$:
 
-1. $ f(x) = x^2 $
-2. $ g(x) = x $
-3. $ h(x) = \sin(x) $
+1. $f(x) = x^2$
+2. $g(x) = x$
+3. $h(x) = \sin(x)$
 
 ### Requirements:
 
